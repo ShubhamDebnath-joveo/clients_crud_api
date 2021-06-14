@@ -1,0 +1,87 @@
+[
+    {
+        "jobId": "001",
+        "category":  "grade A",
+        "title": "CEO",
+        "minExperience": 12,
+        "tags": [
+            "Executive",
+            "Qualified",
+            "Smart",
+            "Efficient"
+        ],
+        "isValid": true
+    },
+
+    {
+        "jobId": "002",
+        "category":  "grade B",
+        "title": "Assistant",
+        "minExperience": 0,
+        "tags": [
+            "Graduate",
+            "literate"
+        ],
+        "isValid": true
+    },
+
+    {
+        "jobId": "003",
+        "category":  "grade A",
+        "title": "CFO",
+        "minExperience": 8,
+        "tags": [
+            "Efficient"
+        ],
+        "isValid": true
+    },
+
+    {
+        "jobId": "004",
+        "category":  "grade A",
+        "title": "CTO",
+        "minExperience": 10,
+        "tags": [
+            "Executive",
+            "Qualified"
+        ],
+        "isValid": true
+    },
+
+    {
+        "jobId": "005",
+        "category":  "DevOps",
+        "title": "Manager",
+        "minExperience": 4,
+        "tags": [
+            "Friendly",
+            "Smart"
+
+        ],
+        "isValid": true
+    },
+
+    {
+        "jobId": "006",
+        "category":  "DevOps",
+        "title": "Developer",
+        "minExperience": 2,
+        "tags": [
+            "Qualified"
+
+        ],
+        "isValid": true
+    },
+
+    {
+        "jobId": "007",
+        "category":  "DevOps",
+        "title": "Team Lead",
+        "minExperience": 3,
+        "tags": [
+            "Executive"
+
+        ],
+        "isValid": true
+    }
+]

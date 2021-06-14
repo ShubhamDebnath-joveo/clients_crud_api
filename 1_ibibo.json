@@ -1,0 +1,12 @@
+[
+  {
+    "jobId":"006",
+    "category":"DevOps",
+    "title":"Developer",
+    "minExperience":2,
+    "tags":[
+      "Qualified"
+    ],
+    "isValid":true
+  }
+]

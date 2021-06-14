@@ -1,0 +1,47 @@
+[
+  {
+    "jobId":"001",
+    "category":"grade A",
+    "title":"CEO",
+    "minExperience":12,
+    "tags":[
+      "Executive",
+      "Qualified",
+      "Smart",
+      "Efficient"
+    ],
+    "isValid":true
+  },
+  {
+    "jobId":"004",
+    "category":"grade A",
+    "title":"CTO",
+    "minExperience":10,
+    "tags":[
+      "Executive",
+      "Qualified"
+    ],
+    "isValid":true
+  },
+  {
+    "jobId":"003",
+    "category":"grade A",
+    "title":"CFO",
+    "minExperience":8,
+    "tags":[
+      "Efficient"
+    ],
+    "isValid":true
+  },
+  {
+    "jobId":"002",
+    "category":"grade B",
+    "title":"Assistant",
+    "minExperience":0,
+    "tags":[
+      "Graduate",
+      "literate"
+    ],
+    "isValid":true
+  }
+]

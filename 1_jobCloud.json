@@ -1,0 +1,13 @@
+[
+  {
+    "jobId":"005",
+    "category":"DevOps",
+    "title":"Manager",
+    "minExperience":4,
+    "tags":[
+      "Friendly",
+      "Smart"
+    ],
+    "isValid":true
+  }
+]
